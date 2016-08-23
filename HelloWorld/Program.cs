@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello TechShot!");
+            Console.Write("Hello TechShot!")
             Console.ReadKey();
         }
     }
